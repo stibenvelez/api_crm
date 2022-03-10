@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Stiben",
+      "empresa": "Codigo con Juan",
+      "email": "stibenvelez@hotmail.com",
+      "telefono": "5838415",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Carolina Henao",
+      "empresa": "La pequema INC",
+      "email": "carolina97.henao@gmail.com",
+      "telefono": "3508490546",
+      "notas": "lo mas pqueñito",
+      "id": 6
+    },
+    {
+      "nombre": "Manchas",
+      "empresa": "Gatos y asociados",
+      "email": "manchas@manchas.com",
+      "telefono": "5838415",
+      "notas": "Manchoso",
+      "id": 7
+    }
+  ]
+}
